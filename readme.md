@@ -19,7 +19,7 @@ This project is a landing page of a digital marketing consultancy firm. It is pu
 - Personal Learnings in this project 
     - HTML
     - CSS 
-- Deployed on *Netlify*  **[ClickMe]()** 
+- Deployed on *Netlify*  **[ClickMe](https://digitalmarketingyo.netlify.app/)** 
 *** 
 #### About Author
 ![AuthorImage](./circle-profile-pic.png)
